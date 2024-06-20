@@ -67,6 +67,8 @@ curl -X POST -H "Content-Type: application/json" -d '{
     "stream": false
 }' "http://localhost:11434/api/generate"
 ```
+# Youtube Link
+https://youtu.be/_qC5K3MLC5E
 
 # Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
